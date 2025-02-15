@@ -55,3 +55,7 @@ nav {
   line-height: 5vh;
   position: sticky;
 }
+
+div .container {
+  width: auto;
+}
