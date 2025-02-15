@@ -55,3 +55,10 @@ nav {
   line-height: 5vh;
   position: sticky;
 }
+
+.nav-link {
+  display: flex;
+  gap: 20px;
+  max-width: 90%;
+  white-space: nowrap;
+}
